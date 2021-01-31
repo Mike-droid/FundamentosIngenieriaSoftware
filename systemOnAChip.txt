@@ -1,0 +1,27 @@
+System on a chip
+Es una combinación de los diferentes componentes que hacen un computador real.
+La arquitectura rápida y compleja en un sistema tradicional podemos hoy tenerlo en un dispositivo pequeño gracias a un System On a chip.
+Un SoC es una CPU que también tiene una memoria RAM y un disco duro en un chip.
+También incluye chips especializados que permiten realizar algunos procesos necesarios por un dispositivo móvil.
+_
+Un System On a Chip se compone de:
+
+BIOS: Arranca nuestro sistema.
+RAM: Se guardan rápidamente todos los datos a los que queremos acceder.
+CPU: Se encarga de procesar todo por dentro.
+Chip de radio: Controla todas las señales wifi, bluetooh o señales de celular (3G, 4G…)
+GPU: Se encarga de hacer toda la representación grafica de todo en pantalla para nuestro sistema.
+Periféricos: Un sistema de periféricos va actuar como el intermedio del sistema operativo, los drivers y el hardware de tal manera que un smartphone pueda ser expandido.
+Pantalla: Es otro gran periférico, la pantalla representa todo lo que hacemos dentro de un sistema embebido (no todos los sistemas embebidos tienen una pantalla).
+Batería: La batería de nuestro celular no esta dentro del System on a chip, la batería tiene su propio controlador eléctrico que es una pequeña CPU que se encarga de manipular como nosotros internamente estamos obtenido la electricidad.
+_
+Datos extra
+Un sistema embebido: Los sistema embebidos se diseñan para cubrir necesidades especificas y la mayoría de sus componentes se encuentran en su placa base.
+Algunos ejemplos de un sistema embebido son: taxímetro, un sistema de control de acceso, un módem o los componentes electrónicos de una maquina expendedora, etc.
+
+Raspberr Pi: placa pequeña o tarjeta madre pequeña con los componentes necesarios para ordenar algo, por ejemplo: celular, tablet, un reloj, etc.
+Rasperry Pi cuenta con varios chips integrados en su placa. Hay chips que tienen la función de controlar las entradas USB, hay otros chips diseñados para controlar toda la conexión eléctrica interna del RasperryPi, pero solo un chip es considerado como System On a Chip ya que dentro de el se encuentran varios componentes, como la memoria RAM, disco duro necesario para almacenar a la BIOS, chip de radio, etc. El disco duro donde guardaremos nuestros datos no esta incluido dentro del System on a chip.
+
+Arduino: es otro Soc, Arduino es una plataforma de hardware libre, basada en una placa con un microcontrolador y un entorno de desarrollo, diseñada para facilitar el uso de la electrónica en proyectos multidisciplinares. Arduino se puede utilizar para desarrollar elementos autónomos, conectándose a dispositivos e interactuar tanto con el hardware como con el software.
+
+Driver: Es un programa(software) para controlar un dispositivo.
